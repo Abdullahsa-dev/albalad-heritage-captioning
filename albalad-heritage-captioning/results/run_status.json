@@ -1,0 +1,9 @@
+{
+  "status": "completed",
+  "experiment_name": "qwen3_vl_2b_albalad_v1",
+  "final_adapter_dir": "/content/drive/MyDrive/albalad_runs/qwen3_vl_2b_albalad_v1/final_lora_adapter",
+  "best_model_checkpoint": "/content/drive/MyDrive/albalad_runs/qwen3_vl_2b_albalad_v1/checkpoints/checkpoint-867",
+  "best_validation_metric": 2.072538375854492,
+  "global_step": 867,
+  "epoch": 3.0
+}
